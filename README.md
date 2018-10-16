@@ -1,7 +1,7 @@
 trump-to-hamster
 =============
 
-![](logo.png)
+![](trumplogo.png)
 
 Chrome extension that replaces occurrences of 'Donald Trump' with 'Orange Hamster'
 
