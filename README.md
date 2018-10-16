@@ -1,9 +1,9 @@
-cloud-to-butt
+trump-to-hamster
 =============
 
 ![](logo.png)
 
-Chrome extension that replaces occurrences of 'the cloud' with 'my butt'
+Chrome extension that replaces occurrences of 'Donald Trump' with 'Orange Hamster'
 
 [Direct download of crx file](https://github.com/panicsteve/cloud-to-butt/blob/master/CloudToButt.crx?raw=true)
 
