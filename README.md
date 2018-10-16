@@ -17,15 +17,15 @@ In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that 
 Safari Version
 --------------
 
-Can be found here: https://github.com/logancollins/cloud-to-butt-safari
+Can be found here: TBA
 
 Firefox Version
 ---------------
 
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-mozilla
+Can be found here: TBA
 
 
 Opera Version
 ---------------
 
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-opera
+Can be found here: TBA
