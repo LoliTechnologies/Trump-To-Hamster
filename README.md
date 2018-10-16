@@ -5,7 +5,7 @@ trump-to-hamster
 
 Chrome extension that replaces occurrences of 'Donald Trump' with 'Orange Hamster'
 
-[Direct download of crx file](https://github.com/panicsteve/cloud-to-butt/blob/master/CloudToButt.crx?raw=true)
+[Direct download of crx file](https://github.com/LoliTechnologies/trump-to-hamster/blob/master/TrumpToHamster.crx?raw=true)
 
 Forked from [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt)
 
