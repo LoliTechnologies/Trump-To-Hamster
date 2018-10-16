@@ -38,7 +38,9 @@ function handleText(textNode)
 	v = v.replace(/\bDonald trump\b/g, "Orange hamster");
 	v = v.replace(/\bdonald Trump\b/g, "orange Hamster");
 	v = v.replace(/\bdonald trump\b/g, "orange hamster");
-	
+	v = v.replace(/\bTrump\b/g, "Hamster");
+	v = v.replace(/\btrump\b/g, "hamster");
+
 	textNode.nodeValue = v;
 }
 
