@@ -12,7 +12,7 @@ Forked from [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt)
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
+In Chrome, choose Window > Extensions.  Drag TrumpToHamster.crx into the page that appears.
 
 Safari Version
 --------------
