@@ -1,0 +1,30 @@
+{
+	"manifest_version": 2,
+	"name": "Trump To Hamster",
+	"version": "1.0",
+	"description": "Replaces the text 'Donald Trump' with 'Orange Hamster'.",
+
+    "browser_action": {
+      "default_icon": {                    // optional
+        "16": "images/icon16.png",           // optional
+        "24": "images/icon24.png",           // optional
+        "32": "images/icon32.png"            // optional
+      },
+      "default_title": "Trump To Hamster",      // optional; shown in tooltip
+      "default_popup": "popup.html"        // optional
+    },
+
+	"content_scripts": 
+	[
+		{
+			"matches": ["*://*/*"],
+			"js": ["text_script.js", "image_script.js"],
+			"run_at": "document_end"
+		}
+	],
+	
+	"web_accessible_resources": [
+		"images/hamster.jpg"
+	]
+}
+
